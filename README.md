@@ -1,4 +1,4 @@
-![logo](https://github.com/Khushi-dubey-dot/Khushi-Dubey/blob/main/IMG-20240918-WA0002.jpg)
+![logo](https://github.com/Khushi-dubey-dot/Khushi-Dubey/blob/main/IMG-20240918-WA0001.jpg)
 
 <h1 align="center">Hi 👋, I'm Khushi Dubey</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
