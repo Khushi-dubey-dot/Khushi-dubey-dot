@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Khushi Dubey</h1>
 <h3 align="center">A passionate Automating the Cloud ☁️ | DevOps Enthusiast 🚀 | Building Scalable Solutions 🌐from India</h3>
 
-<img align="right" alt="coding" width="400 src="(https://github.com/user-attachments/assets/d258c398-d23f-4c08-aca0-205b1b9016d0)">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/4e4c8e56-e420-442d-9e46-afb668c3db8b)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushi-dubey-dot&label=Profile%20views&color=0e75b6&style=flat" alt="khushi-dubey-dot" /> </p>
 
